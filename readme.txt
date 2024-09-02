@@ -1,0 +1,1 @@
+To play audio with play_audio.py you need to edit the script and paste your code into the "YOUR_BASE64_CODE_HERE" section without removing the quotation marks, you can find the audio code in base64 here : https://discord.gg/KJKadCyAKH
